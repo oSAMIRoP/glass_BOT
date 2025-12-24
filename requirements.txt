@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+jdatetime
+requests
+tzdata
+urllib3
+setuptools
