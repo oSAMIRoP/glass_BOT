@@ -4,3 +4,4 @@ requests
 tzdata
 urllib3
 setuptools
+apscheduler
